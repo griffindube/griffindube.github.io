@@ -1,0 +1,15 @@
+{{ $isHomepage := .Params.homePage | default false }}
+{{ if $isHomepage }}
+<div class="author-info">
+  <img src="{{ .Params.profilePicture | default "/imgs/default-profile.jpg" }}" alt="Webpage Owner Profile Picture">
+  <br><br>
+  <!-- <p class="author-name">{{ .Params.name | default "Griffin Dube" }}</p> -->
+</div>
+{{ else }}
+<div class="author-info">
+  <img src="{{ .Params.profilePicture | default "/imgs/default-profile.jpg" }}" alt="Author Profile Picture">
+  <br><br>
+  <!-- <p class="author-name">{{ .Site.Params.name | default "" }} -->
+</div>
+{{ end }}
+

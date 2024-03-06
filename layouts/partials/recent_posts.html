@@ -1,0 +1,13 @@
+<section class="recent-posts">
+  <h2>Recent Posts</h2>
+  <ul>
+    {{ $np := .Params.numPages | default 5 }}
+    {{ range first $np $.Site.RegularPages.ByDate.Reverse }} 
+      <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+      {{ .Summary }}
+      <br>
+      {{ partial "date-and-tags.html" . }}
+      <br><br>
+    {{ end }}
+  </ul>
+</section>

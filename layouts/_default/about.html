@@ -1,0 +1,19 @@
+{{ define "main" }}
+
+<h1>{{ .Title }}</h1>
+<br><br>
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4">
+      <div class="author-info">
+        <img src="{{.Params.profilePicture | default "/imgs/default-profile.jpg"}}">
+        <p class="author-name">{{ .Params.name | default "Griffin Dube" }}</p>
+      </div>
+    </div>
+    <div class="col-sm-8">
+      {{.Content}} 
+    </div>
+  </div>
+</div>
+
+{{ end }}
