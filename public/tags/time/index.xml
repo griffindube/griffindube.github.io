@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Time on Site In Progress</title>
-    <link>//localhost:1313/tags/time/</link>
+    <link>/tags/time/</link>
     <description>Recent content in Time on Site In Progress</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 23 Jan 2024 14:11:13 -0600</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/time/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/time/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>That It Will Never Come Again by Emily Dickinson</title>
-      <link>//localhost:1313/that-it-will-never-come-again-by-emily-dickinson/</link>
+      <link>/that-it-will-never-come-again-by-emily-dickinson/</link>
       <pubDate>Tue, 23 Jan 2024 14:11:13 -0600</pubDate>
-      <guid>//localhost:1313/that-it-will-never-come-again-by-emily-dickinson/</guid>
+      <guid>/that-it-will-never-come-again-by-emily-dickinson/</guid>
       <description>That it will never come again Is what makes life so sweet. Believing what we don&#39;t believe Does not exhilarate. That if it be, it be at best An ablative estate -- This instigates an appetite Precisely opposite. </description>
     </item>
   </channel>

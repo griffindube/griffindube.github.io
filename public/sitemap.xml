@@ -2,43 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/blog/</loc>
+    <loc>/blog/</loc>
     <lastmod>2024-01-23T14:11:53-06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/poetry/</loc>
+    <loc>/tags/poetry/</loc>
     <lastmod>2024-01-23T14:11:53-06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/sample-post/</loc>
+    <loc>/tags/sample-post/</loc>
     <lastmod>2024-01-23T14:11:53-06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>/</loc>
     <lastmod>2024-01-23T14:11:53-06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2024-01-23T14:11:53-06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/trees/</loc>
+    <loc>/tags/trees/</loc>
     <lastmod>2024-01-23T14:11:53-06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/trees-by-joyce-kilmer/</loc>
+    <loc>/trees-by-joyce-kilmer/</loc>
     <lastmod>2024-01-23T14:11:53-06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/that-it-will-never-come-again-by-emily-dickinson/</loc>
+    <loc>/that-it-will-never-come-again-by-emily-dickinson/</loc>
     <lastmod>2024-01-23T14:11:13-06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/time/</loc>
+    <loc>/tags/time/</loc>
     <lastmod>2024-01-23T14:11:13-06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/if-by-rudyard-kipling/</loc>
+    <loc>/if-by-rudyard-kipling/</loc>
     <lastmod>2024-01-23T14:04:54-06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/life/</loc>
+    <loc>/tags/life/</loc>
     <lastmod>2024-01-23T14:04:54-06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>/about/</loc>
   </url><url>
-    <loc>//localhost:1313/dev/</loc>
+    <loc>/dev/</loc>
   </url><url>
-    <loc>//localhost:1313/french/</loc>
+    <loc>/french/</loc>
   </url>
 </urlset>

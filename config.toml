@@ -2,6 +2,8 @@ bseURL = 'http://griffindube.github.io/'
 languageCode = 'en-us'
 title = "Site In Progress"
 
+ignorefiles = [ "content/templates/*" ]
+
 # set things so that default post location is /:filename:
 [permalinks]
   blog = "/:filename:/"

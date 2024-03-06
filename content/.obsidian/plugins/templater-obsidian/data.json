@@ -15,16 +15,8 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "Manager Meetings",
-      "template": "templates/Manager Meetings.md"
-    },
-    {
-      "folder": "Daily Notes",
-      "template": "templates/Daily Note Template.md"
-    },
-    {
-      "folder": "Issues",
-      "template": "templates/Issue Template.md"
+      "folder": "",
+      "template": ""
     }
   ],
   "syntax_highlighting": true,
