@@ -1,4 +1,50 @@
-baseURL = 'http://example.org/'
+bseURL = 'http://griffindube.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'ananke'
+title = "Site In Progress"
+
+# set things so that default post location is /:filename:
+[permalinks]
+  blog = "/:filename:/"
+
+[taxonomies]
+  tag = "tags"
+
+# get menu set up
+[menu]
+  [[menu.main]]
+    name = "Home"
+    pre = "home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Blog"
+    pre = "edit"
+    url = "/blog/"
+    weight = 2
+  [[menu.main]]
+    name = "French"
+    pre = "globe"
+    url = "/french/"
+    weight = 3
+  [[menu.main]]
+    name = "Dev"
+    pre = "terminal"
+    url = "/dev/"
+    weight = 4
+  [[menu.main]]
+    name = "Tags"
+    pre = "tag"
+    url = "/tags/"
+    weight = 5
+  [[menu.main]]
+    name = "About"
+    pre = "user"
+    url = "/about/"
+    weight = 6
+
+
+[params]
+  name = "Griffin Dube"
+  dateFormat = "2 January 2006"
+  hometext = "Griffin's Corner of the Internet"
+  numPages = 3 #number of pages to display in recent posts
