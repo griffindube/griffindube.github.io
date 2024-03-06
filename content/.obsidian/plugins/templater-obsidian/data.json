@@ -22,7 +22,7 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    ""
+    "templates/default.md"
   ],
   "startup_templates": [
     ""

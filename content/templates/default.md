@@ -1,7 +1,7 @@
 ---
-title:
+title: 
 author: Griffin Dube
-date: 
-tags: []
+date: <% await tp.date.now("YYYY-MM-DDT") %>
+tags: 
 draft: true
 ---

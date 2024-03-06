@@ -1,0 +1,12 @@
+{
+  "file-explorer:new-file-in-new-pane": [],
+  "templater-obsidian:templates/default.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "N"
+    }
+  ]
+}

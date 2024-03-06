@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/if-by-rudyard-kipling.md",
+                "file": "templates/default.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/if-by-rudyard-kipling.md",
+                "file": "templates/default.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/if-by-rudyard-kipling.md",
+                "file": "templates/default.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/if-by-rudyard-kipling.md"
+                "file": "templates/default.md"
               }
             }
           },
@@ -165,15 +165,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8ee1cb4f177389fe",
+  "active": "0aadb5b7a2c26fec",
   "lastOpenFiles": [
+    "blog/if-by-rudyard-kipling.md",
     "templates/default.md",
     "templates",
     "about/_index.md",
     "french/_index.md",
     "blog/trees-by-joyce-kilmer.md",
     "blog/that-it-will-never-come-again-by-emily-dickinson.md",
-    "blog/if-by-rudyard-kipling.md",
     "dev/_index.md",
     "blog/_index.md"
   ]
