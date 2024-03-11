@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3c8fb3f5c63871d9",
+        "id": "84662a7a33a51d8c",
         "type": "tabs",
         "children": [
           {
-            "id": "4b7199e87acd1f14",
+            "id": "3c3ef9dac29d9cf4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -157,17 +157,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8ee1cb4f177389fe",
+  "active": "3c3ef9dac29d9cf4",
   "lastOpenFiles": [
+    "blog/_index.md",
+    "blog/recipes/cottage-cheesy-turkey-kale-mix.md",
+    "blog/recipes/_index.md",
+    "blog/if-by-rudyard-kipling.md",
+    "blog/recipes",
     "blog/the-beginning-of-my-blog.md",
     "templates/default.md",
-    "blog/if-by-rudyard-kipling.md",
     "templates",
     "about/_index.md",
     "french/_index.md",
     "blog/trees-by-joyce-kilmer.md",
     "blog/that-it-will-never-come-again-by-emily-dickinson.md",
-    "dev/_index.md",
-    "blog/_index.md"
+    "dev/_index.md"
   ]
 }
