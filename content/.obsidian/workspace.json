@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "38a94d9152786792",
+        "id": "3c8fb3f5c63871d9",
         "type": "tabs",
         "children": [
           {
-            "id": "0aadb5b7a2c26fec",
+            "id": "4b7199e87acd1f14",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/default.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/default.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/default.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "templates/default.md"
-              }
+              "state": {}
             }
           },
           {
@@ -165,10 +157,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0aadb5b7a2c26fec",
+  "active": "8ee1cb4f177389fe",
   "lastOpenFiles": [
-    "blog/if-by-rudyard-kipling.md",
+    "blog/the-beginning-of-my-blog.md",
     "templates/default.md",
+    "blog/if-by-rudyard-kipling.md",
     "templates",
     "about/_index.md",
     "french/_index.md",
