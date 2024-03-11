@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "84662a7a33a51d8c",
+        "id": "f0dc15ba5d23d06e",
         "type": "tabs",
         "children": [
           {
-            "id": "3c3ef9dac29d9cf4",
+            "id": "cc49f0d1a9f4b079",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -157,10 +157,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3c3ef9dac29d9cf4",
+  "active": "cc49f0d1a9f4b079",
   "lastOpenFiles": [
-    "blog/_index.md",
     "blog/recipes/cottage-cheesy-turkey-kale-mix.md",
+    "blog/recipes/creamy-southwest-chicken-chili.md",
+    "blog/_index.md",
     "blog/recipes/_index.md",
     "blog/if-by-rudyard-kipling.md",
     "blog/recipes",

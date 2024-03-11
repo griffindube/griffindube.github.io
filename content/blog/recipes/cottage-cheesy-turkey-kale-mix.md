@@ -4,6 +4,8 @@ date: 2024-03-10T20:02:39-05:00
 author: Griffin Dube
 tags:
   - recipe
+  - breakfast
+  - turkey
 draft: false
 ---
 This recipe makes **4** servings.
@@ -19,8 +21,8 @@ This recipe makes **4** servings.
 3. Simmer on medium-low heat, stirring every once and a while to make sure nothing is sticking and everything is incorporated. About 5 minutes.
 4. Add the kale and continue mixing and cooking on low heat until all of all of the cottage cheese curds melt and everything is creamy.
 5. Enjoy :)
-## Macros Information for **4** Servings
-
-| **Protein** | **Fat** | **Carbs** | **Total Calories** |
-| ----------- | ------- | --------- | ------------------ |
-| 44g         | 17g     | 9g        | 358                |
+## Macros for **4** Servings
+**Protein**: 44g
+**Carbs**: 9g
+**Fat**: 17g
+**Total Calories**: 358
