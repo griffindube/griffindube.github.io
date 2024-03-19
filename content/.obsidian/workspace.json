@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f0dc15ba5d23d06e",
+        "id": "48542dc7e9963c7a",
         "type": "tabs",
         "children": [
           {
-            "id": "cc49f0d1a9f4b079",
+            "id": "685bdaccb74a8147",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.11"
+                "file": "blog/recipes/teriyaki-tofu.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "blog/recipes/teriyaki-tofu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "blog/recipes/teriyaki-tofu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "blog/recipes/teriyaki-tofu.md"
+              }
             }
           },
           {
@@ -144,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,9 +166,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cc49f0d1a9f4b079",
+  "active": "685bdaccb74a8147",
   "lastOpenFiles": [
     "blog/recipes/cottage-cheesy-turkey-kale-mix.md",
+    "blog/recipes/teriyaki-tofu.md",
     "blog/recipes/creamy-southwest-chicken-chili.md",
     "blog/_index.md",
     "blog/recipes/_index.md",
