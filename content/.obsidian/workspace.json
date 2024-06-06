@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "905ef21d2cdb5562",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,7 +177,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "685bdaccb74a8147",
+  "active": "905ef21d2cdb5562",
   "lastOpenFiles": [
     "blog/recipes/cottage-cheesy-turkey-kale-mix.md",
     "blog/recipes/teriyaki-tofu.md",

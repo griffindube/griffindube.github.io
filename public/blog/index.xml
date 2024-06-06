@@ -4,7 +4,7 @@
     <title>Blog on Site In Progress</title>
     <link>//localhost:1313/blog/</link>
     <description>Recent content in Blog on Site In Progress</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 23 Jan 2024 14:11:53 -0600</lastBuildDate>
     <atom:link href="//localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />

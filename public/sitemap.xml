@@ -2,43 +2,77 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/blog/</loc>
+    <loc>//localhost:1313/blog/</loc>
+    <lastmod>2024-03-19T12:57:00-05:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/dinner/</loc>
+    <lastmod>2024-03-19T12:57:00-05:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/recipe/</loc>
+    <lastmod>2024-03-19T12:57:00-05:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/blog/recipes/</loc>
+    <lastmod>2024-03-19T12:57:00-05:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2024-03-19T12:57:00-05:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/stir-fry/</loc>
+    <lastmod>2024-03-19T12:57:00-05:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/teriyaki-tofu/</loc>
+    <lastmod>2024-03-19T12:57:00-05:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/tofu/</loc>
+    <lastmod>2024-03-19T12:57:00-05:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/chicken/</loc>
+    <lastmod>2024-03-10T20:14:40-05:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/creamy-southwest-chicken-chili/</loc>
+    <lastmod>2024-03-10T20:14:40-05:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/crockpot/</loc>
+    <lastmod>2024-03-10T20:14:40-05:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/recipes/</loc>
+    <lastmod>2024-03-10T20:14:40-05:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/breakfast/</loc>
+    <lastmod>2024-03-10T20:02:39-05:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/cottage-cheesy-turkey-kale-mix/</loc>
+    <lastmod>2024-03-10T20:02:39-05:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/turkey/</loc>
+    <lastmod>2024-03-10T20:02:39-05:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/poetry/</loc>
     <lastmod>2024-01-23T14:11:53-06:00</lastmod>
   </url><url>
-    <loc>/tags/poetry/</loc>
+    <loc>//localhost:1313/tags/sample-post/</loc>
     <lastmod>2024-01-23T14:11:53-06:00</lastmod>
   </url><url>
-    <loc>/tags/sample-post/</loc>
+    <loc>//localhost:1313/tags/trees/</loc>
     <lastmod>2024-01-23T14:11:53-06:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>//localhost:1313/trees-by-joyce-kilmer/</loc>
     <lastmod>2024-01-23T14:11:53-06:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2024-01-23T14:11:53-06:00</lastmod>
-  </url><url>
-    <loc>/tags/trees/</loc>
-    <lastmod>2024-01-23T14:11:53-06:00</lastmod>
-  </url><url>
-    <loc>/trees-by-joyce-kilmer/</loc>
-    <lastmod>2024-01-23T14:11:53-06:00</lastmod>
-  </url><url>
-    <loc>/that-it-will-never-come-again-by-emily-dickinson/</loc>
+    <loc>//localhost:1313/that-it-will-never-come-again-by-emily-dickinson/</loc>
     <lastmod>2024-01-23T14:11:13-06:00</lastmod>
   </url><url>
-    <loc>/tags/time/</loc>
+    <loc>//localhost:1313/tags/time/</loc>
     <lastmod>2024-01-23T14:11:13-06:00</lastmod>
   </url><url>
-    <loc>/if-by-rudyard-kipling/</loc>
+    <loc>//localhost:1313/if-by-rudyard-kipling/</loc>
     <lastmod>2024-01-23T14:04:54-06:00</lastmod>
   </url><url>
-    <loc>/tags/life/</loc>
+    <loc>//localhost:1313/tags/life/</loc>
     <lastmod>2024-01-23T14:04:54-06:00</lastmod>
   </url><url>
-    <loc>/about/</loc>
+    <loc>//localhost:1313/about/</loc>
   </url><url>
-    <loc>/dev/</loc>
-  </url><url>
-    <loc>/french/</loc>
+    <loc>//localhost:1313/tags/</loc>
   </url>
 </urlset>

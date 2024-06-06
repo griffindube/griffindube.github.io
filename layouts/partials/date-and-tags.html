@@ -1,11 +1,15 @@
 {{ $dateTime := .PublishDate.Format "2006-01-02" }}
+{{ $folderTime := time.AsTime "0001-01-01T00:00:00-00:00" }}
+{{ $isFolder := ne $folderTime $dateTime }}
 {{ $dateFormat := .Site.Params.dateFormat | default "2 January 2006" }}
+{{ if ne $isFolder }}
 <i style="scale:75%;" data-feather="calendar" ></i> <time datetime="{{ $dateTime }}">{{ .PublishDate.Format $dateFormat }}</time>
-{{ with .Params.tags }}
-  &nbsp;&vert;&nbsp;
-  <i style="scale:75%;" data-feather="tag"></i>
-  {{ range . }}
-  {{ $href := print (relURL "tags/") (urlize .) }}
-  <a style="scale:90%;" class="btn btn-sm btn-outline-dark tag-btn" href="{{ $href }}">{{ . }}</a>
+  {{ with .Params.tags }}
+    &nbsp;&vert;&nbsp;
+    <i style="scale:75%;" data-feather="tag"></i>
+    {{ range . }}
+    {{ $href := print (relURL "tags/") (urlize .) }}
+    <a style="scale:90%;" class="btn btn-sm btn-outline-dark tag-btn" href="{{ $href }}">{{ . }}</a>
+    {{ end }}
   {{ end }}
 {{ end }}

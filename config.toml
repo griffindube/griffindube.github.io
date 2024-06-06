@@ -24,16 +24,6 @@ ignorefiles = [ "content/templates/*" ]
     url = "/blog/"
     weight = 2
   [[menu.main]]
-    name = "French"
-    pre = "globe"
-    url = "/french/"
-    weight = 3
-  [[menu.main]]
-    name = "Dev"
-    pre = "terminal"
-    url = "/dev/"
-    weight = 4
-  [[menu.main]]
     name = "Tags"
     pre = "tag"
     url = "/tags/"

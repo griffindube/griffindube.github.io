@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>French on Site In Progress</title>
+    <link>//localhost:1313/tags/french/</link>
+    <description>Recent content in French on Site In Progress</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Apr 2024 16:23:10 -0500</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/french/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ten Week Course in Français 🙂</title>
+      <link>//localhost:1313/french/ten_week_course/</link>
+      <pubDate>Thu, 25 Apr 2024 16:23:10 -0500</pubDate>
+      <guid>//localhost:1313/french/ten_week_course/</guid>
+      <description>Lessons </description>
+    </item>
+    <item>
+      <title>Writing_practice</title>
+      <link>//localhost:1313/french/writing_practice/</link>
+      <pubDate>Wed, 17 Apr 2024 12:46:21 -0500</pubDate>
+      <guid>//localhost:1313/french/writing_practice/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

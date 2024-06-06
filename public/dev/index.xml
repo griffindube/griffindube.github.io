@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Development on Site In Progress</title>
-    <link>/dev/</link>
+    <link>//localhost:1313/dev/</link>
     <description>Recent content in Development on Site In Progress</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="/dev/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/dev/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

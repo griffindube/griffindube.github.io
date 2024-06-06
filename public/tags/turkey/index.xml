@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Turkey on Site In Progress</title>
+    <link>//localhost:1313/tags/turkey/</link>
+    <description>Recent content in Turkey on Site In Progress</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Mar 2024 20:02:39 -0500</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/turkey/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cottage Cheesy Turkey Kale Mix</title>
+      <link>//localhost:1313/cottage-cheesy-turkey-kale-mix/</link>
+      <pubDate>Sun, 10 Mar 2024 20:02:39 -0500</pubDate>
+      <guid>//localhost:1313/cottage-cheesy-turkey-kale-mix/</guid>
+      <description>This recipe makes 4 servings.&#xA;Ingredients 1 pound Ground Turkey 2 cups Cottage Cheese, 4% fat 2 cups kale, raw 1 tbsp taco seasoning Steps Brown the ground turkey, mixing in the taco seasoning while it is cooking with a small amount of oil. Once the ground turkey is cooked, add in all of the cottage cheese and mix. Simmer on medium-low heat, stirring every once and a while to make sure nothing is sticking and everything is incorporated.</description>
+    </item>
+  </channel>
+</rss>

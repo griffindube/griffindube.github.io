@@ -2,45 +2,107 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Site In Progress</title>
-    <link>/tags/</link>
+    <link>//localhost:1313/tags/</link>
     <description>Recent content in Tags on Site In Progress</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Jan 2024 14:11:53 -0600</lastBuildDate>
-    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Poetry</title>
-      <link>/tags/poetry/</link>
-      <pubDate>Tue, 23 Jan 2024 14:11:53 -0600</pubDate>
-      <guid>/tags/poetry/</guid>
+      <title>Breakfast</title>
+      <link>//localhost:1313/tags/breakfast/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/breakfast/</guid>
       <description></description>
     </item>
     <item>
-      <title>Sample Post</title>
-      <link>/tags/sample-post/</link>
-      <pubDate>Tue, 23 Jan 2024 14:11:53 -0600</pubDate>
-      <guid>/tags/sample-post/</guid>
+      <title>Chicken</title>
+      <link>//localhost:1313/tags/chicken/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/chicken/</guid>
       <description></description>
     </item>
     <item>
-      <title>Trees</title>
-      <link>/tags/trees/</link>
-      <pubDate>Tue, 23 Jan 2024 14:11:53 -0600</pubDate>
-      <guid>/tags/trees/</guid>
+      <title>Crockpot</title>
+      <link>//localhost:1313/tags/crockpot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/crockpot/</guid>
       <description></description>
     </item>
     <item>
-      <title>Time</title>
-      <link>/tags/time/</link>
-      <pubDate>Tue, 23 Jan 2024 14:11:13 -0600</pubDate>
-      <guid>/tags/time/</guid>
+      <title>Dinner</title>
+      <link>//localhost:1313/tags/dinner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/dinner/</guid>
       <description></description>
     </item>
     <item>
       <title>Life</title>
-      <link>/tags/life/</link>
-      <pubDate>Tue, 23 Jan 2024 14:04:54 -0600</pubDate>
-      <guid>/tags/life/</guid>
+      <link>//localhost:1313/tags/life/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/life/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Poetry</title>
+      <link>//localhost:1313/tags/poetry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/poetry/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Recipe</title>
+      <link>//localhost:1313/tags/recipe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/recipe/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Recipes</title>
+      <link>//localhost:1313/tags/recipes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/recipes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sample Post</title>
+      <link>//localhost:1313/tags/sample-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/sample-post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stir-Fry</title>
+      <link>//localhost:1313/tags/stir-fry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/stir-fry/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Time</title>
+      <link>//localhost:1313/tags/time/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/time/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tofu</title>
+      <link>//localhost:1313/tags/tofu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/tofu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Trees</title>
+      <link>//localhost:1313/tags/trees/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/trees/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Turkey</title>
+      <link>//localhost:1313/tags/turkey/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/turkey/</guid>
       <description></description>
     </item>
   </channel>
